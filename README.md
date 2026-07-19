@@ -1,6 +1,10 @@
-📘 Caderno Temático — Cibersegurança
+## 📘Caderno temático- Cibersegurança
 
-## Objetivo
+</div>
+
+---
+
+## 🎯 Objetivo
 
 
 Este projeto tem como objetivo estudar ataques comuns direcionados a usuários com alto privilégio em ambientes corporativos, utilizando o NotebookLM como ferramenta de apoio ao aprendizado.
@@ -19,13 +23,13 @@ O foco está no desenvolvimento de:
 
 ---
 
- ## Tema
+ ## 🧠 Tema
 
 Usuários com alto nível de acesso (administradores, executivos e equipes técnicas) são alvos prioritários em ataques cibernéticos, pois possuem controle sobre sistemas críticos e dados sensíveis.
 
 Este estudo analisa como esses ataques funcionam, quais vulnerabilidades são exploradas e como preveni-los.
 
- ## Fontes
+ ## 📚 Fontes
 
 
 - **[Fundamentos de Phishing](https://www.cisa.gov/news-events/news/understanding-phishing-attacks)**
@@ -43,7 +47,7 @@ Tipo: Artigo técnico
 - **[Defesa em Segurança](https://www.sans.org/white-papers/)**
 Tipo: Whitepaper
 
-## Engenharia de Prompts
+## ⚙️ Engenharia de Prompts
 
 
 - Prompt Inicial
@@ -87,7 +91,7 @@ Objetivo:
 
 Converter conhecimento em aplicação
 
-## Resumo
+## 📖 Resumo
 
 
 1. Phishing Direcionado (Spear Phishing)
@@ -120,7 +124,7 @@ Converter conhecimento em aplicação
 
 - Uso indevido de acesso interno
 
-## Glosário
+## 📘 Glosário
 
 - Phishing: tentativa de enganar usuários para roubar dados
   
@@ -132,7 +136,7 @@ Converter conhecimento em aplicação
   
 - Engenharia Social: manipulação psicológica
 
-## Miniguia de Estudo
+## 🧠 Miniguia de Estudo
 
    
 1. Resumo Geral
