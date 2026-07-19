@@ -28,6 +28,11 @@ O uso do NotebookLM permitiu testar diferentes abordagens de prompts, refinando 
 
 ---
 
+## 🔗 NotebookLM
+
+Acesse o material original aqui:
+**[Link direto](https://notebooklm.google.com/notebook/0abd03c3-091a-4020-9850-aff8dbc28b5e)**
+
  ## 🧠 Tema
 
 Usuários com alto nível de acesso (administradores, executivos e equipes técnicas) são alvos prioritários em ataques cibernéticos, pois possuem controle sobre sistemas críticos e dados sensíveis.
