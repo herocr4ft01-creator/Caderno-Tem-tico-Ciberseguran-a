@@ -1,39 +1,29 @@
 # 📚 Curadoria de Fontes
 
-## Fonte 1
+## Fonte 1 Fundamentos de Phishing
 Link: https://www.proofpoint.com/br/threat-reference/phishing
 
-Motivo da escolha:
+Motivo da escolha: Explica a base de ataques de engenharia social
 
-Principais insights:
+## Fonte 2 MITRE ATT&CK
+Link: https://attack.mitre.org/
 
-## Fonte 2
-Link:
+Motivo da escolha: Técnicas reais utilizadas por atacantes
 
-Motivo da escolha:
+## Fonte 3 Engenharia Social (Vídeo)
 
-Principais insights:
+Link: https://www.youtube.com/watch?v=XBkzBrXlle0
 
-## Fonte 3
+Motivo da escolha: Demonstra ataques na prática
 
-Link:
+# Fonte 4 Acesso Privilegiado
 
-Motivo da escolha:
+Link: https://www.crowdstrike.com/cybersecurity-101/privileged-access/
 
-Principais insights:
+Motivo da escolha: Riscos de contas com alto privilégio
 
-# Fonte 4
+## Fonte 5 Defesa em Segurança
 
-Link:
+Link: https://www.sans.org/white-papers/
 
-Motivo da escolha:
-
-Principais insights:
-
-## Fonte 5
-
-Link:
-
-Motivo da escolha:
-
-Principais insights:
+Motivo da escolha: Estratégias de Proteção 
