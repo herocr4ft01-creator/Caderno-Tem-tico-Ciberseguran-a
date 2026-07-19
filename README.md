@@ -32,7 +32,7 @@ Este estudo analisa como esses ataques funcionam, quais vulnerabilidades são ex
  ## 📚 Fontes
 
 
-- **[Fundamentos de Phishing](https://www.cisa.gov/news-events/news/understanding-phishing-attacks)**
+- **[Fundamentos de Phishing](https://www.proofpoint.com/br/threat-reference/phishing)**
 Tipo: Artigo Oficial
 
 - **[MITRE ATT&CK](https://attack.mitre.org/)**
