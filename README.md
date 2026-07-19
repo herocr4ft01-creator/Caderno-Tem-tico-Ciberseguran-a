@@ -18,7 +18,12 @@ O foco está no desenvolvimento de:
 - Engenharia de prompts
 
 - Organização do conhecimento
+  
+## 📌 Diferencial do Projeto
 
+Este projeto foi construído com base em múltiplas fontes (mais de 50 analisadas), com foco em curadoria e aprofundamento nas mais relevantes.
+
+O uso do NotebookLM permitiu testar diferentes abordagens de prompts, refinando respostas e desenvolvendo pensamento crítico.
 </div>
 
 ---
@@ -155,4 +160,3 @@ Usuários privilegiados são os principais alvos de ataques, pois concentram ace
 "Compare diferentes tipos de ataques cibernéticos"
 
 "Quais vulnerabilidades são exploradas em [cenário]?"
-
